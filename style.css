@@ -112,7 +112,7 @@ body::before {
 
 .icones-redes-sociais i {
     font-size: 1.5rem;
-    color: #000000; /* Cor dos ícones */
+    color: rgba(255, 255, 255, 0.8); /* Cor dos ícones */
     transition: transform 0.2s ease-in-out; /* Transição suave para o hover */
 }
 
